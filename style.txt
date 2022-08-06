@@ -1,0 +1,15 @@
+background i'm new: rgb(255, 253, 245)
+red box:#e7332b
+white box:#fff
+paragraph dark: #1b1a20
+paragraph light: #787878
+FAQ COLOR:#333
+black button background: #585858
+
+light pink bcg:rgb(255, 248, 229)
+
+footer bcg: rgb(22, 22, 23
+
+box-shadow: box-shadow: rgb(0 0 0 / 20%) 0px 3px 1px -2px, rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 12%) 0px 1px 5px 0px;
+}
+dark-shadow: 0 8px 30px hsla(0,0%,48%,.16)
